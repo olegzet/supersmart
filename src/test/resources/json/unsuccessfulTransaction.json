@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "itemType": "unit",
+      "id": "11",
+      "barcode": "012345678912",
+      "weight": 11
+    },
+    {
+      "itemType": "unit",
+      "id": "12",
+      "barcode": "012345678912",
+      "weight": 11
+    },
+    {
+      "itemType": "weighted",
+      "id": "21",
+      "barcode": "01234567891234",
+      "weight": 3
+    },
+    {
+      "itemType": "weighted",
+      "id": "22",
+      "barcode": "01234567891234",
+      "weight": 3
+    },
+    {
+      "itemType": "weighted",
+      "id": "23",
+      "barcode": "01234567891234",
+      "weight": 33
+    },
+    {
+      "itemType": "green",
+      "id": "31",
+      "barcode": "2987654321012",
+      "weight": 20
+    },
+    {
+      "itemType": "green",
+      "id": "32",
+      "barcode": null,
+      "weight": 20
+    }
+  ]
+}
